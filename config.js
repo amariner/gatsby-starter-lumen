@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://marcmariner.com/',
   pathPrefix: '/',
   title: 'Marc Mariner Blog',
   subtitle: 'Tot ben senzill i ben alegre',
@@ -16,12 +16,12 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: 'Sobre mi',
+      path: '/pages/sobre-mi'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'Contacte',
+      path: '/pages/contacte'
     }
   ],
   author: {
