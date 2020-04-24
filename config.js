@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Marc Mariner',
     photo: '/photo.jpg',
     bio: 'Tot ben senzill i ben alegre.',
     contacts: {
