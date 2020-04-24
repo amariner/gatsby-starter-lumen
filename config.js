@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://marcmariner.com/',
+  url: 'https://marcmariner.com',
   pathPrefix: '/',
   title: 'Marc Mariner Blog',
   subtitle: 'Tot ben senzill i ben alegre',
